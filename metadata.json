@@ -1,0 +1,8 @@
+{
+  "name": "GDGLink - Game Boy Multiplayer",
+  "description": "Retro Pokémon Game Boy open-world multiplayer game where players create custom 8-bit avatars, explore a shared map, and throw LinkedIn connection requests to climb the leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
